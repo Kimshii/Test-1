@@ -4,5 +4,10 @@ public class test {
         if ( 1 == 2) {
             System.out.println("no");
         }
+
+        else
+        {
+            System.out.println("yes");
+        }
     }
 }
